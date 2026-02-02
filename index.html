@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dots & Boxes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Dots & Boxes</h1>
+
+<div class="controls">
+  <select id="mode">
+    <option value="friend">Play with Friend</option>
+    <option value="ai">Play with AI</option>
+  </select>
+  <button id="restart">Restart</button>
+</div>
+
+<div class="score">
+  🔴 Player A: <span id="scoreA">0</span>
+  &nbsp;&nbsp;
+  🔵 Player B: <span id="scoreB">0</span>
+</div>
+
+<canvas id="board"></canvas>
+
+<script src="script.js"></script>
+</body>
+</html>
