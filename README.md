@@ -1,4 +1,4 @@
-# 🎮 Dots and Boxes Game (JavaScript)
+# 🎮 Dots and Boxes Game 
 
 ## 📌 About the Project
 This project is a **Dots and Boxes game** made using **HTML, CSS, and JavaScript**.  
